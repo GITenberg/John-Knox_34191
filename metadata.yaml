@@ -1,0 +1,27 @@
+_repo: John-Knox_34191
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, William M. (William Mackergo)
+    alias: Taylor, William Mackergo
+    birthdate: 1829
+    deathdate: 1895
+    gutenberg_agent_id: '36859'
+    url: http://www.gutenberg.org/2009/agents/36859
+description: ''
+gutenberg_issued: '2010-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Knox, John, approximately 1514-1572'
+title: John Knox
+url: http://www.gutenberg.org/ebooks/34191
